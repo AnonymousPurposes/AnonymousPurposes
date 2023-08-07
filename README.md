@@ -9,7 +9,7 @@
 - Fizza Batool | https://github.com/FizzaBatul
 - Mahrukh Nadeem
 - Saboor Bandhani | https://github.com/SaboorBandhani
-- Waqas Bin Niaz
+- Waqas Bin Niaz | https://github.com/Waqas2003
 - Ayesha Khan
 - Alquamah Shoaib | https://github.com/AqqiBoy
 - Mahnoor Nadeem 
