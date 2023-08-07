@@ -10,11 +10,11 @@
 - Mahrukh Nadeem
 - Saboor Bandhani | https://github.com/SaboorBandhani
 - Waqas Bin Niaz | https://github.com/Waqas2003
-- Ayesha Khan
+- Ayesha Khan | https://github.com/ayeshakhan46
 - Alquamah Shoaib | https://github.com/AqqiBoy
-- Mahnoor Nadeem 
+- Mahnoor Nadeem | https://github.com/NoorAnsari5
 - Muhammad Mubeen
-- Midha Ahsan
+- Midha Ahsan | https://github.com/MidhaAhsan
 - Muhammad Ali | https://github.com/muhammadali-00
   
 
