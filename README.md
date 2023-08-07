@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Cloud based projects and ML algorithms.
 - 📫 How to reach me forpurposesthatareanonymous@gmail.com
 
-- Top collaborators :
+- Top Contributors :
 - Ayesha Malik
 - Fizza Batool | https://github.com/FizzaBatul
-- Mahrukh Nadeem
+- Mahrukh Nadeem | https://github.com/Mahrukh-Nadeem
 - Saboor Bandhani | https://github.com/SaboorBandhani
 - Waqas Bin Niaz | https://github.com/Waqas2003
 - Ayesha Khan | https://github.com/ayeshakhan46
